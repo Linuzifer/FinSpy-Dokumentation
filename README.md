@@ -1,5 +1,5 @@
 # FinSpy-Dokumentation
-Dokumentation der [Analyse einzelner Komponenten der FinSpy-Schadsoftware durch den CCC]( https://ccc.de/updates/2019/ccc-analysiert-munchner-staatstrojaner-finspy ).
+Dokumentation der [Analyse einzelner Komponenten der FinSpy-Schadsoftware durch den CCC]( https://ccc.de/de/updates/2019/finspy ).
 
 Autoren:
 * Thorsten Schröder
