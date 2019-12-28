@@ -1,0 +1,21 @@
+Owner: C=NO, ST=Sor-Trondelag, L=Trondheim, OU=Adpog
+Issuer: C=NO, ST=Sor-Trondelag, L=Trondheim, OU=Adpog
+Serial number: 5752b865
+Valid from: Fri Dec 14 07:09:54 CET 2018 until: Mon Apr 30 08:09:54 CEST 2046
+Certificate fingerprints:
+	 SHA1: AD:71:4F:FA:27:E7:33:A1:96:B1:AC:F0:7C:5B:E5:51:8F:6B:D3:32
+	 SHA256: 11:37:FB:EA:47:F2:79:CF:CC:FA:E5:D6:8A:6C:84:04:B9:62:9A:08:64:D4:51:5E:25:DE:7C:87:32:49:E3:AE
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 25 2A 1D 80 45 C9 BD B1   1E 23 D5 EE BC A6 BE E1  %*..E....#......
+0010: E6 96 48 37                                        ..H7
+]
+]
+

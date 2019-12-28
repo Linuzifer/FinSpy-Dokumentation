@@ -1,0 +1,21 @@
+Owner: CN=RMS
+Issuer: CN=RMS
+Serial number: 36891ece
+Valid from: Mon Oct 10 05:17:01 CEST 2016 until: Fri Oct 04 05:17:01 CEST 2041
+Certificate fingerprints:
+	 SHA1: 98:5D:08:CD:5F:1B:B3:30:28:CA:C6:20:AE:D1:93:2D:DD:26:91:E1
+	 SHA256: 1E:62:1A:88:3B:CD:9D:1B:D6:D5:61:11:C4:88:EE:10:D4:67:1D:2C:A6:64:F7:27:FE:72:59:47:8A:68:79:67
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 95 E9 6E 35 21 63 62 98   AF A7 24 C6 9B EF 33 EA  ..n5!cb...$...3.
+0010: 98 A4 18 89                                        ....
+]
+]
+

@@ -1,0 +1,21 @@
+Owner: CN=e, OU=e, O=e, L=e, ST=e, C=e
+Issuer: CN=e, OU=e, O=e, L=e, ST=e, C=e
+Serial number: 5257eb4f
+Valid from: Tue Jul 18 14:01:19 CEST 2017 until: Sat Dec 03 13:01:19 CET 2044
+Certificate fingerprints:
+	 SHA1: 35:D6:63:83:05:EB:5E:46:FB:FF:BE:17:AA:6A:27:3B:E9:9B:A6:3F
+	 SHA256: EE:7B:3C:44:DB:67:5C:03:B3:FA:A2:18:93:27:69:63:FD:02:F9:9C:BA:D7:97:2A:FD:BE:0C:FA:1A:50:27:3D
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 77 20 50 13 2D EA 2E 58   03 9E EC 8D 34 47 A9 09  w P.-..X....4G..
+0010: 8E 76 83 33                                        .v.3
+]
+]
+

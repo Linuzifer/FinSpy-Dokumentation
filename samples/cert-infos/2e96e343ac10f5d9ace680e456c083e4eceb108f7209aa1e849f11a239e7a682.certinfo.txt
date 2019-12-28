@@ -1,0 +1,10 @@
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4eddf405
+Valid from: Tue Dec 06 11:52:53 CET 2011 until: Thu Nov 28 11:52:53 CET 2041
+Certificate fingerprints:
+	 SHA1: BE:57:C4:31:27:F3:44:B4:75:CA:F7:D7:BC:F1:3F:BC:03:CF:A9:F0
+	 SHA256: C1:AF:BD:5C:72:72:CC:9A:D4:8B:2A:EC:CB:52:77:B9:1C:A3:45:15:37:B8:20:05:C1:C5:A7:41:FA:39:8D:2F
+Signature algorithm name: SHA1withRSA
+Subject Public Key Algorithm: 1024-bit RSA key
+Version: 3

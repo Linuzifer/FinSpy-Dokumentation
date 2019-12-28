@@ -1,0 +1,10 @@
+Owner: CN=release
+Issuer: CN=release
+Serial number: 507542f4
+Valid from: Wed Oct 10 11:42:12 CEST 2012 until: Sun Oct 04 11:42:12 CEST 2037
+Certificate fingerprints:
+	 SHA1: 01:AB:EB:87:BA:F5:AC:8C:52:C7:85:F9:F3:83:84:C2:40:25:62:EB
+	 SHA256: 2F:B7:74:F9:94:0F:9C:17:A9:47:BD:2E:22:69:18:4F:1C:0E:8F:A4:E4:1E:16:1E:3E:58:4E:82:E5:A4:55:FB
+Signature algorithm name: SHA1withRSA
+Subject Public Key Algorithm: 1024-bit RSA key
+Version: 3

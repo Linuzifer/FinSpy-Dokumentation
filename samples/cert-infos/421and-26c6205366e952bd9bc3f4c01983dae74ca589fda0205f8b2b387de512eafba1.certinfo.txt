@@ -1,0 +1,10 @@
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4f44acfe
+Valid from: Wed Feb 22 09:53:18 CET 2012 until: Thu Feb 21 09:53:18 CET 2013
+Certificate fingerprints:
+	 SHA1: 60:6D:58:9D:C6:F4:42:17:0A:75:B7:BC:03:20:59:34:58:C7:C0:F2
+	 SHA256: 8A:C8:9B:C6:43:2C:62:02:33:92:99:4C:61:A4:09:9D:6D:95:69:54:F9:98:EE:20:2C:5F:6C:95:7E:96:12:68
+Signature algorithm name: SHA1withRSA
+Subject Public Key Algorithm: 1024-bit RSA key
+Version: 3

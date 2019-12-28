@@ -1,0 +1,21 @@
+Owner: ST=OH, L=Cleveland, O=Defiant Technologies LLC, CN=Dmitry Brant
+Issuer: ST=OH, L=Cleveland, O=Defiant Technologies LLC, CN=Dmitry Brant
+Serial number: 493c6497
+Valid from: Wed Dec 05 08:45:37 CET 2018 until: Sat Apr 21 09:45:37 CEST 2046
+Certificate fingerprints:
+	 SHA1: E7:FF:50:BE:EC:65:DD:82:23:67:4F:C3:B8:F9:0C:57:04:73:9C:1A
+	 SHA256: F2:37:29:E1:6C:55:62:96:1E:DC:2E:06:CA:AE:6C:AE:F5:CF:EC:91:64:79:7C:94:D1:33:3C:82:7F:F7:2F:43
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: AD 5A AD D0 F8 A3 24 2B   4D 2C D7 36 7A 2C EA 2A  .Z....$+M,.6z,.*
+0010: 8A 01 09 E3                                        ....
+]
+]
+

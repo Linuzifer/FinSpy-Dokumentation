@@ -1,0 +1,21 @@
+Owner: CN=networkrefresher
+Issuer: CN=networkrefresher
+Serial number: 6a413d0b
+Valid from: Wed Dec 05 08:54:34 CET 2018 until: Sat Apr 21 09:54:34 CEST 2046
+Certificate fingerprints:
+	 SHA1: ED:F1:C2:AE:F0:33:DE:43:D3:F1:6E:61:F3:26:7A:2D:42:9D:4A:06
+	 SHA256: 9F:BA:BE:A8:A9:FF:C2:01:49:83:F7:72:59:61:FD:65:AC:94:3B:20:3D:F2:BF:1A:76:83:86:3F:62:B2:2C:8E
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 8D 96 96 77 8E 3F 42 F8   CF 87 BE 26 9A AF 0C DB  ...w.?B....&....
+0010: 76 8D 62 6F                                        v.bo
+]
+]
+

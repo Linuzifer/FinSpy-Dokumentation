@@ -1,0 +1,21 @@
+Owner: CN=cctechstudio
+Issuer: CN=cctechstudio
+Serial number: 612b1a83
+Valid from: Fri Dec 21 06:50:19 CET 2018 until: Mon May 07 07:50:19 CEST 2046
+Certificate fingerprints:
+	 SHA1: 8B:90:35:F5:15:37:4A:6E:72:67:C0:9C:11:88:F6:EA:AC:BF:30:56
+	 SHA256: 91:7E:74:61:EB:56:57:8C:5F:9E:91:64:1F:51:7A:9B:39:9F:40:F4:96:CA:9D:31:C7:6D:58:82:4F:EC:9B:74
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: FC 05 73 42 E8 85 18 28   12 84 B2 2F 5A EB C3 D4  ..sB...(.../Z...
+0010: 50 61 F6 3E                                        Pa.>
+]
+]
+

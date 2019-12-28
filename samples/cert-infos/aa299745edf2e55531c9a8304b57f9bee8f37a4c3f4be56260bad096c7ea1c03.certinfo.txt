@@ -1,0 +1,21 @@
+Owner: C=US, ST=California, L=Mountain View, O=Android, OU=Android, CN=Android, EMAILADDRESS=android@android.com
+Issuer: C=US, ST=California, L=Mountain View, O=Android, OU=Android, CN=Android, EMAILADDRESS=android@android.com
+Serial number: 2884d0e
+Valid from: Fri Dec 21 06:53:39 CET 2018 until: Mon May 07 07:53:39 CEST 2046
+Certificate fingerprints:
+	 SHA1: FF:9C:FD:9F:FD:87:C5:66:54:47:81:22:60:C8:22:83:E0:BE:DB:52
+	 SHA256: A2:12:AD:FB:38:DF:2E:A2:1D:D2:8D:A3:43:55:21:32:11:43:66:3C:13:49:CC:B4:AB:1C:4A:18:12:0D:68:A4
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: E2 CE 8F 50 AD 20 AF 93   30 38 E9 30 C3 55 A7 E9  ...P. ..08.0.U..
+0010: C1 79 7A 93                                        .yz.
+]
+]
+

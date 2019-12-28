@@ -1,0 +1,5 @@
+# parsing FF config 00_apk_samples/aa299745edf2e55531c9a8304b57f9bee8f37a4c3f4be56260bad096c7ea1c03.cfg)
+ TlvTypeMobileEncryption                        = b'\xd8\x01\x00\x00\xa03\x84\x00\x0c\x00\x00\x00P\x13\xfe\x00'[...]
+	 TlvTypeMobileTargetOfflineConfig               = b'\x0c\x00\x00\x00P\x13\xfe\x00\x00\x00\x00\x00\x10\x00\x00\x00'[...]
+		 TlvTypeMobileTargetID                          = "FunVoic" (15)
+		 TlvTypeMobileTargetHeartbeatInterval           = 60 (12)

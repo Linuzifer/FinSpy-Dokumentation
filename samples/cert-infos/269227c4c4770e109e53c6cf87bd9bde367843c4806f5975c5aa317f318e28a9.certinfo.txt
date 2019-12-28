@@ -1,0 +1,21 @@
+Owner: CN='CYGES LLC'
+Issuer: CN='CYGES LLC'
+Serial number: 28057230
+Valid from: Wed Jun 20 10:19:44 CEST 2018 until: Sun Jun 19 10:19:44 CEST 2022
+Certificate fingerprints:
+	 SHA1: 59:11:E3:5C:9F:0F:A3:5B:40:A8:43:50:50:C2:61:BF:ED:3E:03:FB
+	 SHA256: 79:39:FE:B6:1A:36:B0:87:28:59:E9:8F:61:15:B8:16:1B:9E:35:73:C9:9E:53:AB:B0:6C:6C:33:AE:2A:A5:87
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 33 58 EF C1 93 CD B4 24   8F 6A 0C 2B C5 52 E2 6F  3X.....$.j.+.R.o
+0010: 65 6B 4B 3F                                        ekK?
+]
+]
+

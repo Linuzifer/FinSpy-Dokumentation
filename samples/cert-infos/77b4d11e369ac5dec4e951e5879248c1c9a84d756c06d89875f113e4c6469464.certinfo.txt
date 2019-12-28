@@ -1,0 +1,21 @@
+Owner: CN=rockz5555 OU
+Issuer: CN=rockz5555 OU
+Serial number: 52e628a8
+Valid from: Fri Dec 21 06:56:17 CET 2018 until: Mon May 07 07:56:17 CEST 2046
+Certificate fingerprints:
+	 SHA1: F2:9A:B4:44:A3:6C:EB:B6:41:4F:4A:8F:90:AC:5F:EE:A8:99:3A:AD
+	 SHA256: 1F:07:5D:09:3F:F5:68:37:FB:91:5D:5F:DC:A0:F3:E1:F5:26:90:E9:1B:4B:B2:4C:22:D8:B6:C4:13:09:FB:34
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CF AE 4B 8F 2E 43 E2 BD   DA E2 17 49 23 69 AD A1  ..K..C.....I#i..
+0010: 22 AA 52 1A                                        ".R.
+]
+]
+

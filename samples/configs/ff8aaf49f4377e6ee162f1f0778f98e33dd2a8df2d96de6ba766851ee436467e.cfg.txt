@@ -1,0 +1,5 @@
+# parsing FF config 00_apk_samples/ff8aaf49f4377e6ee162f1f0778f98e33dd2a8df2d96de6ba766851ee436467e.cfg)
+ TlvTypeMobileEncryption                        = b'\xd8\x01\x00\x00\xa03\x84\x00\x0c\x00\x00\x00P\x13\xfe\x00'[...]
+	 TlvTypeMobileTargetOfflineConfig               = b'\x0c\x00\x00\x00P\x13\xfe\x00\x00\x00\x00\x00\x10\x00\x00\x00'[...]
+		 TlvTypeMobileTargetID                          = "myphone" (15)
+		 TlvTypeMobileTargetHeartbeatInterval           = 60 (12)

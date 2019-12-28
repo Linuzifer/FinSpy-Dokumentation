@@ -1,0 +1,5 @@
+# parsing FF config 00_apk_samples/31fa1129d8e682a90913cc28b4e5d6b064131c93a6d86118d94f93918ed6e2f8.cfg)
+ TlvTypeMobileEncryption                        = b'\xd8\x01\x00\x00\xa03\x84\x00\x0c\x00\x00\x00P\x13\xfe\x00'[...]
+	 TlvTypeMobileTargetOfflineConfig               = b'\x0c\x00\x00\x00P\x13\xfe\x00\x00\x00\x00\x00\x10\x00\x00\x00'[...]
+		 TlvTypeMobileTargetID                          = "whistel" (15)
+		 TlvTypeMobileTargetHeartbeatInterval           = 60 (12)
