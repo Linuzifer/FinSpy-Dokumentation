@@ -16,5 +16,5 @@ apktool -f d $APKPATH -o 10_apktool-output/$APPNAME.out
 #jadx $APKPATH -d 11_jadx-output/$APPNAME.out
 
 # extract certinfo
-keytool -printcert -file 10_apktool-output/$APPNAME.out/original/META-INF/CERT.RSA > $APPNAME.certinfo.txt
+keytool -printcert -file 10_apktool-output/$APPNAME.out/original/META-INF/*.RSA > $APPNAME.certinfo.txt
 
