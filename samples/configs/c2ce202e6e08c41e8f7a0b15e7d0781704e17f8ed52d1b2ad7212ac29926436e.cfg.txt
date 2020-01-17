@@ -22,4 +22,4 @@
 		 TlvTypeConfigAutoRemovalIfNoProxy              = 168 (12)
 		 TlvTypeMobileTargetHeartbeatEvents             = 173 (10)
 		 TlvTypeMobileTargetHeartbeatRestrictions       = b'\xc0\x00' (10)
-		 TlvTypeInstalledModules                        = Logging: Off  | [...] (140)
+		 TlvTypeInstalledModules                        = Logging: Off  |  Spy Call: Off  |  Call Interception: Off  |  SMS: Off  |  Address Book: Off  |  Tracking: Off  |  Phone Logs: Off  | (140)
