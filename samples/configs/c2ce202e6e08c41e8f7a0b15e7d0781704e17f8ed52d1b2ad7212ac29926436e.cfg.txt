@@ -1,6 +1,6 @@
-# parsing FF config 00_apk_samples/c2ce202e6e08c41e8f7a0b15e7d0781704e17f8ed52d1b2ad7212ac29926436e.cfg)
- TlvTypeMobileEncryption                        = b'\xfa\x01\x00\x00\xa03\x84\x00\x0c\x00\x00\x00P\x13\xfe\x00'[...]
-	 TlvTypeMobileTargetOfflineConfig               = b'\x0c\x00\x00\x00P\x13\xfe\x00\x00\x00\x00\x00\x10\x00\x00\x00'[...]
+# parsing FF config c2ce202e6e08c41e8f7a0b15e7d0781704e17f8ed52d1b2ad7212ac29926436e.cfg)
+ TlvTypeMobileEncryption                        = b'\xfa\x01\x00\x00\xa03\x84\x00\x0c\x00\x00\x00P\x13\xfe\x00'[...] (514)
+	 TlvTypeMobileTargetOfflineConfig               = b'\x0c\x00\x00\x00P\x13\xfe\x00\x00\x00\x00\x00\x10\x00\x00\x00'[...] (506)
 		 TlvTypeMobileTargetID                          = "adalet" (14)
 		 TlvTypeMobileTargetHeartbeatInterval           = 86400 (12)
 		 TlvTypeMobileTargetPositioning                 = b'\x86\x82\x87\x81\x83' (13)
@@ -22,4 +22,4 @@
 		 TlvTypeConfigAutoRemovalIfNoProxy              = 168 (12)
 		 TlvTypeMobileTargetHeartbeatEvents             = 173 (10)
 		 TlvTypeMobileTargetHeartbeatRestrictions       = b'\xc0\x00' (10)
-		 TlvTypeInstalledModules                        = Logging: Off  |  Spy Call: Off  |  Call Interception: Off  |  SMS: Off  |  Address Book: Off  |  Tracking: Off  |  Phone Logs: Off  | (140)
+		 TlvTypeInstalledModules                        = Logging: Off  | [...] (140)
