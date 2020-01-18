@@ -1,0 +1,21 @@
+Owner: CN=anonymous
+Issuer: CN=anonymous
+Serial number: 1b1ef9b5
+Valid from: Tue Oct 21 16:32:31 CEST 2014 until: Sat Oct 15 16:32:31 CEST 2039
+Certificate fingerprints:
+	 SHA1: EA:A2:1C:C7:03:B1:CA:21:FE:67:79:7F:A2:9C:C0:37:2E:DE:08:F7
+	 SHA256: F5:2B:47:7B:3A:08:45:4A:39:99:53:AB:60:DA:DF:67:D2:C4:A1:05:F4:40:3A:83:AF:7C:1A:1F:1F:ED:F2:2C
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A6 D2 A3 5F 1A 38 C1 86   7E 67 D7 5F 75 53 DE 92  ..._.8...g._uS..
+0010: 5F D2 32 A6                                        _.2.
+]
+]
+

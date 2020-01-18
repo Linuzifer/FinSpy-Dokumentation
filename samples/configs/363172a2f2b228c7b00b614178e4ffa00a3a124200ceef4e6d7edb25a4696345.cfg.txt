@@ -1,6 +1,6 @@
-# parsing FF config 00_apk_samples/derise-363172a2f2b228c7b00b614178e4ffa00a3a124200ceef4e6d7edb25a4696345.cfg)
- TlvTypeMobileEncryption                        = b'\xf9\x01\x00\x00\xa03\x84\x00\x0c\x00\x00\x00P\x13\xfe\x00'[...]
-	 TlvTypeMobileTargetOfflineConfig               = b'\x0c\x00\x00\x00P\x13\xfe\x00\x00\x00\x00\x00\x10\x00\x00\x00'[...]
+# parsing FF config 363172a2f2b228c7b00b614178e4ffa00a3a124200ceef4e6d7edb25a4696345.cfg)
+ TlvTypeMobileEncryption                        = b'\xf9\x01\x00\x00\xa03\x84\x00\x0c\x00\x00\x00P\x13\xfe\x00'[...] (513)
+	 TlvTypeMobileTargetOfflineConfig               = b'\x0c\x00\x00\x00P\x13\xfe\x00\x00\x00\x00\x00\x10\x00\x00\x00'[...] (505)
 		 TlvTypeMobileTargetID                          = "derise" (14)
 		 TlvTypeMobileTargetHeartbeatInterval           = 60 (12)
 		 TlvTypeMobileTargetPositioning                 = b'\x82\x87\x81\x86\x83' (13)
@@ -20,6 +20,6 @@
 		 TlvTypeMobileTargetHeartbeatEvents             = 189 (10)
 		 TlvTypeMobileTargetHeartbeatRestrictions       = b'\xc0\x00' (10)
 		 TlvTypeInstalledModules                        = Logging: Off  |  Spy Call: Off  |  Call Interception: Off  |  SMS: On  |  Address Book: Off  |  Tracking: On  |  Phone Logs: On  | (140)
-		 TlvTypeMobileTrackingConfigRaw                 = b'5\x00\x00\x00\xa03E\x00\x0c\x00\x00\x00@AE\x00\x88\x13\x00\x00\x0c\x00\x00\x00@@E\x00X' (61)
-			 TlvTypeMobileTrackingConfig                    = b'\x0c\x00\x00\x00@AE\x00\x88\x13\x00\x00\x0c\x00\x00\x00@@E\x00X' (53)
+		 TlvTypeMobileTrackingConfigRaw                 = b'5\x00\x00\x00\xa03E\x00\x0c\x00\x00\x00@AE\x00'[...] (61)
+			 TlvTypeMobileTrackingConfig                    = b'\x0c\x00\x00\x00@AE\x00\x88\x13\x00\x00\x0c\x00\x00\x00'[...] (53)
 				 TlvTypeMobileTrackingDistance                  = 5000 (12)

@@ -1,6 +1,6 @@
-# parsing FF config 00_apk_samples/0d798ca0b2d0ea9bad251125973d8800ad3043e51d4cc6d0d57b971a97d3af2d.cfg)
- TlvTypeMobileEncryption                        = b'\xfe\x01\x00\x00\xa03\x84\x00\x0c\x00\x00\x00P\x13\xfe\x00'[...]
-	 TlvTypeMobileTargetOfflineConfig               = b'\x0c\x00\x00\x00P\x13\xfe\x00\x00\x00\x00\x00\x10\x00\x00\x00'[...]
+# parsing FF config 0d798ca0b2d0ea9bad251125973d8800ad3043e51d4cc6d0d57b971a97d3af2d.cfg)
+ TlvTypeMobileEncryption                        = b'\xfe\x01\x00\x00\xa03\x84\x00\x0c\x00\x00\x00P\x13\xfe\x00'[...] (518)
+	 TlvTypeMobileTargetOfflineConfig               = b'\x0c\x00\x00\x00P\x13\xfe\x00\x00\x00\x00\x00\x10\x00\x00\x00'[...] (510)
 		 TlvTypeMobileTargetID                          = "JHANUK" (14)
 		 TlvTypeMobileTargetHeartbeatInterval           = 600 (12)
 		 TlvTypeMobileTargetPositioning                 = b'\x82\x87\x86\x81\x83' (13)
@@ -21,6 +21,6 @@
 		 TlvTypeMobileTargetHeartbeatRestrictions       = b'\xc0\x00' (10)
 		 TlvTypeMobileTargetLocationChangedRange        = 5 (9)
 		 TlvTypeInstalledModules                        = Logging: Off  |  Spy Call: On  |  Call Interception: Off  |  SMS: On  |  Address Book: On  |  Tracking: On  |  Phone Logs: On  | (140)
-		 TlvTypeMobileTrackingConfigRaw                 = b'5\x00\x00\x00\xa03E\x00\x0c\x00\x00\x00@AE\x00\xe8\x03\x00\x00\x0c\x00\x00\x00@@E\x00,' (61)
-			 TlvTypeMobileTrackingConfig                    = b'\x0c\x00\x00\x00@AE\x00\xe8\x03\x00\x00\x0c\x00\x00\x00@@E\x00,' (53)
+		 TlvTypeMobileTrackingConfigRaw                 = b'5\x00\x00\x00\xa03E\x00\x0c\x00\x00\x00@AE\x00'[...] (61)
+			 TlvTypeMobileTrackingConfig                    = b'\x0c\x00\x00\x00@AE\x00\xe8\x03\x00\x00\x0c\x00\x00\x00'[...] (53)
 				 TlvTypeMobileTrackingDistance                  = 1000 (12)
